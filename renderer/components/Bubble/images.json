@@ -1,0 +1,50 @@
+[
+  {
+    "symbol": "mir",
+    "imageUrl": "/logos/mir.png"
+  },
+  {
+    "symbol": "luna",
+    "imageUrl": "/logos/luna.png"
+  },
+  {
+    "symbol": "lota",
+    "imageUrl": "/logos/lota.png"
+  },
+  {
+    "symbol": "mine",
+    "imageUrl": "/logos/mine.png"
+  },
+  {
+    "symbol": "anc",
+    "imageUrl": "/logos/anc.png"
+  },
+  {
+    "symbol": "spec",
+    "imageUrl": "/logos/spec.png"
+  },
+  {
+    "symbol": "stt",
+    "imageUrl": "/logos/starterra.png"
+  },
+  {
+    "symbol": "twd",
+    "imageUrl": "/twd.png"
+  },
+  {
+    "symbol": "vkr",
+    "imageUrl": "/logos/val.png"
+  },
+  {
+    "symbol": "psi",
+    "imageUrl": "/logos/nexus.svg"
+  },
+  {
+    "symbol": "tfloki",
+    "imageUrl": "/logos/terrafloki.png"
+  },
+  {
+    "symbol": "loop",
+    "imageUrl": "/logos/loop.png"
+  }
+]
